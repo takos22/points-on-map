@@ -34,4 +34,4 @@ py main.py
 
 Output from the program:
 
-![Output](https://github.com/takos22/points-on-mep/blob/master/points.png?raw=true)
+![Output](https://github.com/takos22/points-on-map/blob/master/points.png?raw=true)
