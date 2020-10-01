@@ -4,6 +4,7 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
+- [Output](#output)
 
 ## About <a name="about"></a>
 
